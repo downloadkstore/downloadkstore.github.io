@@ -1,7 +1,7 @@
 <config>
     <demoLanguageOverride value=""/>
     <sslSettings value="ALWAYS"/>
-    <platform value="WEB"/>
+    <platform value="SMC_USB"/>
     <apiBase value="vip-api.galaxie.ca/api-jsonp/"/>
     <paysafeEnvironment value="LIVE"/>
     <paysafeApiKey value="T1QtMTE3OkItcDEtMC01OWYyMzM4Yi0wLTMwMmMwMjE0MTQ3NWIzNDcwMjA4Y2RhNjE5ZWM1N2YyY2JjOWEwMzBhMjgxMDJkMzAyMTQxYTc0ZjQ4YTYwNmZiNDMyOWUzODIxOWFhYzBlZTA2YjhkZTg1N2Nj"/>
