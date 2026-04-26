@@ -1,2 +1,0 @@
-include: ["_*"]
-# jekyll does not like pages with "_", however the download store has a folder called "_common", which is used to fetch many assets required for the store. this should fix it.
