@@ -1,2 +1,3 @@
-include: [_common]
+include:
+  - "/store/bundle/res/images/720p/_common/"
 # so Jekyll will include this folder, which is needed in most of pages
