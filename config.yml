@@ -1,3 +1,2 @@
-include:
-  - "/store/bundle/res/images/720p/_common/"
-# so Jekyll will include this folder, which is needed in most of pages
+include: ["_*"]
+# jekyll does not like pages with "_", however the download store has a folder called "_common", which is used to fetch many assets required for the store. this should fix it.
