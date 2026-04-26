@@ -1,0 +1,1 @@
+define(["require","exports"],function(n,e){return{getCurrentResolution:function(){return 1},getCurrentLanguage:function(){return"en"},getAccountID:function(){return""},getDeviceID:function(){return"invalid Id"},getOSVersion:function(){return"invalid version"},onApplicationQuitEvent:function(){}}});
