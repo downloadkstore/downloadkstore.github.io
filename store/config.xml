@@ -7,6 +7,6 @@
     <paysafeApiKey value="T1QtMTE3OkItcDEtMC01OWYyMzM4Yi0wLTMwMmMwMjE0MTQ3NWIzNDcwMjA4Y2RhNjE5ZWM1N2YyY2JjOWEwMzBhMjgxMDJkMzAyMTQxYTc0ZjQ4YTYwNmZiNDMyOWUzODIxOWFhYzBlZTA2YjhkZTg1N2Nj"/>
     <acceptedCreditCards value="discover;mastercard;visa;american_express"/>
     <trackingEnvironment value="prod"/>
-    <environment value="prod"/>
+    <environment value="stage"/>
     <LoggerLevel value=""/>
 </config>
