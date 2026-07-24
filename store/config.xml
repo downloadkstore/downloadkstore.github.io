@@ -2,11 +2,12 @@
     <demoLanguageOverride value=""/>
     <sslSettings value="ALWAYS"/>
     <platform value="WEB"/>
-    <apiBase value="test-vip-api.galaxie.ca/api-jsonp/"/>
+    <!--<apiBase value="vip-api.galaxie.ca/api-jsonp/"/>-->
+    <apiBase value="downloadkstore.github.io/api-jsonp/"/>
     <paysafeEnvironment value="LIVE"/>
     <paysafeApiKey value="T1QtMTE3OkItcDEtMC01OWYyMzM4Yi0wLTMwMmMwMjE0MTQ3NWIzNDcwMjA4Y2RhNjE5ZWM1N2YyY2JjOWEwMzBhMjgxMDJkMzAyMTQxYTc0ZjQ4YTYwNmZiNDMyOWUzODIxOWFhYzBlZTA2YjhkZTg1N2Nj"/>
     <acceptedCreditCards value="discover;mastercard;visa;american_express"/>
     <trackingEnvironment value="prod"/>
-    <environment value="stage"/>
+    <environment value="prod"/>
     <LoggerLevel value=""/>
 </config>
